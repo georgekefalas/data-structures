@@ -1,3 +1,3 @@
 # Data Structures
 
-A collection of data structure implementations developed for my Data Structures university course.
+A collection of data structure implementations developed for my ΜΥΥ303 Data Structures university course.
